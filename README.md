@@ -5,7 +5,7 @@ Help the prisoner escape from prison!
 
 I thought it would be fun to try and make a little game for a prisoner to escape a cell. 
 
-Hold down the mouse to make the prisoner cry (poor guy), but don't feel too bad, since eventually there will be so much water that he can float in his tears and escape through the conveniently placed hole on the ceiling!
+Hold down the mouse to make the prisoner cry—poor guy—but don't feel too bad, since eventually there will be so much water that he can float in his tears and escape through the conveniently placed hole on the ceiling!
 
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/47250827/189759851-cf5efddf-571a-4066-ad1a-4e6c91b433e3.png">
 
